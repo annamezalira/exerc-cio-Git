@@ -1,3 +1,2 @@
-# exerc-cio-PAW II 
-Atividade  Versionamento GIT - Anna Beatriz Mezalira 
-PAW II
+# exerc-cio-GIT
+PAW II - Exercício Versionamento GIT - Anna Beatriz Mezalira 
